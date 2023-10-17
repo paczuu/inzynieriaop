@@ -1,2 +1,6 @@
 # inzynieriaop
-EventFlow - Projekt Inżynieria Oprogramowania 2023/2024
+EventFlow - System zarządzania Salą Bakietową
+
+
+
+Projekt Inżynieria Oprogramowania 2023/2024
