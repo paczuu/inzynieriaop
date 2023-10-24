@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T12:48:21.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.6" etag="jodUhsMCfQ-cvJYlMbYv" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T13:02:47.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="VnQ4HHVme71SBnvILIBn" version="22.0.6" type="github">
   <diagram name="Strona-1" id="7ULHNqaLYXQtWwnvPZru">
-    <mxGraphModel>
+    <mxGraphModel dx="1405" dy="2063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3XDeofyfl9gLN7M5t_5w-10" value="Goście" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="20" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3XDeofyfl9gLN7M5t_5w-11" value=" Rezerwacja pokoju" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3XDeofyfl9gLN7M5t_5w-12" value="" style="rounded=0;" edge="1" source="3XDeofyfl9gLN7M5t_5w-10" target="3XDeofyfl9gLN7M5t_5w-11" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3XDeofyfl9gLN7M5t_5w-13" value=" Przegląd dostępności pokoi" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="657" y="140" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3XDeofyfl9gLN7M5t_5w-14" value="" style="rounded=0;" edge="1" source="3XDeofyfl9gLN7M5t_5w-10" target="3XDeofyfl9gLN7M5t_5w-13" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3XDeofyfl9gLN7M5t_5w-15" value="Recepcja" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-230" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3XDeofyfl9gLN7M5t_5w-16" value="" style="rounded=0;" edge="1" source="3XDeofyfl9gLN7M5t_5w-15" target="3XDeofyfl9gLN7M5t_5w-11" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3XDeofyfl9gLN7M5t_5w-17" value=" Zameldowanie gościa" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-200" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3XDeofyfl9gLN7M5t_5w-18" value="" style="rounded=0;" edge="1" source="3XDeofyfl9gLN7M5t_5w-15" target="3XDeofyfl9gLN7M5t_5w-17" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3XDeofyfl9gLN7M5t_5w-19" value=" Wymeldowanie gościa" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-450" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3XDeofyfl9gLN7M5t_5w-20" value="" style="rounded=0;" edge="1" source="3XDeofyfl9gLN7M5t_5w-15" target="3XDeofyfl9gLN7M5t_5w-19" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3XDeofyfl9gLN7M5t_5w-21" value=" Zarządzanie pokojami" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-350" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3XDeofyfl9gLN7M5t_5w-22" value="" style="rounded=0;" edge="1" source="3XDeofyfl9gLN7M5t_5w-15" target="3XDeofyfl9gLN7M5t_5w-21" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3XDeofyfl9gLN7M5t_5w-23" value=" Obsługa płatności" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3XDeofyfl9gLN7M5t_5w-24" value="" style="rounded=0;" edge="1" source="3XDeofyfl9gLN7M5t_5w-15" target="3XDeofyfl9gLN7M5t_5w-23" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3XDeofyfl9gLN7M5t_5w-25" value=" Generowanie raportów" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="517" y="-380" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3XDeofyfl9gLN7M5t_5w-26" value="" style="rounded=0;" edge="1" source="3XDeofyfl9gLN7M5t_5w-15" target="3XDeofyfl9gLN7M5t_5w-25" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3XDeofyfl9gLN7M5t_5w-27" value="System płatności" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3XDeofyfl9gLN7M5t_5w-28" value="" style="rounded=0;" edge="1" source="3XDeofyfl9gLN7M5t_5w-27" target="3XDeofyfl9gLN7M5t_5w-23" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
